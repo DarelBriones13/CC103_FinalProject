@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Method
+comment1.params=
+comment1.target=void\ makeAppointment()
+comment2.params=
+comment2.target=void\ viewAppointment()
+comment3.params=
+comment3.target=void\ searchAppointment()
+comment4.params=
+comment4.target=void\ updateAppointment()
+comment5.params=
+comment5.target=void\ cancelAppointment()
+numComments=6
